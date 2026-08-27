@@ -26,11 +26,13 @@ Alternatively, manually add the repository URL as a patch source:
 
 ## 🩹 Patches
 
-<!-- PATCHES_START -->
+<!-- PATCHES_START EXPANDED -->
 
 | App | Patch | Version | Package |
 |---|---|---|---|
 | **Sony \| Sound Connect** | Use patched YouTube Music in Scene | `13.2.1` | `com.sony.songpal.mdr` |
+
+<!-- PATCHES_END -->
 
 ## 🛠️ Building locally
 
