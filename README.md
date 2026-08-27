@@ -27,10 +27,21 @@ Alternatively, manually add the repository URL as a patch source:
 ## 🩹 Patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/rafag00/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Sony | Sound Connect&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-| App | Patch | Version | Package |
-|---|---|---|---|
-| **Sony \| Sound Connect** | Use patched YouTube Music in Scene | `13.2.1` | `com.sony.songpal.mdr` |
+**🎯 Supported versions:**
+
+| 13.2.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Use patched YouTube Music in Scene](#use-patched-youtube-music-in-scene) | Redirects the YouTube Music Scene integration to the patched YouTube Music package. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
